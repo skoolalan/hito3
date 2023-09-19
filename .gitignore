@@ -1,0 +1,14 @@
+# Ignorar archivos y directorios generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar el directorio del entorno virtual
+venv/*
+
+# Ignorar el archivo de configuración local (ejemplo para Django)
+local_settings.py
+
+# Otros archivos y directorios que deseas ignorar
+
